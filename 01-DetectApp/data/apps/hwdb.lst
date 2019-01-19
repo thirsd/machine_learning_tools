@@ -1,0 +1,5 @@
+hwdb/bin/hwdb
+hwdb/config/DeployConfig.xml
+hwdb/config/SystemConfig.xml
+hwdb/flow/
+hwdb/log/
